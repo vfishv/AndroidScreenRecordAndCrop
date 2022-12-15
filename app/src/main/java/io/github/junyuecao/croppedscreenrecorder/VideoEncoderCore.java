@@ -25,7 +25,7 @@ import android.media.MediaFormat;
 import android.media.MediaMuxer;
 import android.os.Handler;
 import android.os.Looper;
-import android.support.annotation.RequiresApi;
+import androidx.annotation.RequiresApi;
 import android.util.Log;
 import android.view.Surface;
 
